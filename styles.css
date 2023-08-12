@@ -1,5 +1,13 @@
 
 /* Your CSS Code here. */
+#t1{
+	border:1px;
+	 border-style:solid;
+	corder-color:black;
+	
+	width:400px;
+}
+
 #h1{
 	color:white;
 	background-color:darkred;
